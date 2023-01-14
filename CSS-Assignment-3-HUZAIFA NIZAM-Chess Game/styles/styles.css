@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+
+}
+.box {
+    border: 30px solid white;
+    width: 1200px;
+    height: 1200;
+    text-align: center;
+
+}
+
+.box td {
+padding: 0px;
+    width: 150px;
+    height: 150px;
+
+}
+
+.black-elephant {
+    /* position:absolute ; */
+    width: 120px;
+    height: 120px;
+
+}
+.text{
+    text-align: left ;
+
+}
